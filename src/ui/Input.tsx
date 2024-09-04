@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import styled from 'styled-components';
 import { useAppDispatch } from '../store';
 import { addRequirement } from '../features/users/userSlice';
